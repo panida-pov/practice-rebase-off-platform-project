@@ -91,4 +91,8 @@ This will create a conflict
 ******
 this is an update from part 1 branch
 *******
+<<<<<<< HEAD
 this is an update from part1 branch.
+=======
+this is an update from part2 branch.
+>>>>>>> d8716f2 (change part1 to part2)
